@@ -3,7 +3,7 @@ Contributors: Zotabox
 Donate link: 
 Tags: live chat, messenger, help desk, customer support, facebook
 Requires at least: 3.0.1
-Tested up to: 6.5
+Tested up to: 6.7.2
 Donate link: https://zotabox.com/membership/pricing
 Stable tag: 1.5.0
 Requires PHP: 7.0
